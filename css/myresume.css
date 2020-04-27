@@ -9,3 +9,15 @@ font-family: 'Noto Sans TC', sans-serif;
 .subheading {
 font-family: 'Noto Sans TC', sans-serif;
 }
+table {
+	width:50%       
+}
+tr:nth-child(even) {
+	 background-color:#C1FFE4;
+}
+tr:hover{
+  font-weight:bold
+}
+tr:first-child {
+	border-bottom:3px,solid,#000000；
+}
